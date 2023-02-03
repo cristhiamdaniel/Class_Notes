@@ -1,2 +1,3 @@
-# PUJ-AnalisisAlgoritmos
-Repo for making websites with Jekyll and Github Pages
+# Analisis de Algoritmos
+
+1. Notacion Asintotica
