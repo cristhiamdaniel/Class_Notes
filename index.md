@@ -4,15 +4,11 @@
              
 {% include navigation.html %}
              
-# Building Websites in GitHub
+# Algorithm Analysis
              
 ## Description
 {{ site.description }}
-             
-More details about the project are available from the [About page][def].
-             
-See some [examples of our work]({{ page.lesson-example }}).
-             
-Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
+
+Welcome to the Algorithm Analysis course given to systems engineering students. In this space we collect class notes, projects and a lot of code!
 
 {% include footer.html %}
